@@ -23,4 +23,5 @@ NOTE!
 ## Aufgabe 2
 
 - Flutter: Widgets, state, ...
+- StatelessWidget/StatefulllessWidget
 - link zu dartpad

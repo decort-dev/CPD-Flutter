@@ -7,11 +7,6 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 
 - https://dartpad.dev/
 
-### Link zur Präsentation
-
-NOTE!
-- pdf hochladen im repo
-
 ## Aufgaben Dart
 
 ### Aufgabe 1 
@@ -42,7 +37,7 @@ NOTE!
 - ![aufgabe1](https://user-images.githubusercontent.com/41015675/166160442-df945d87-a720-411f-947a-bc34d88deb95.png)
 
 ### Aufgabe 3
-- Erweitern sie die App so, dass die Jahreszahl und das Semester mit einem Button inkrementiert werden kann
-- Die App soll genau so funktionieren wie im folgenden Link:
+- Erweitern Sie die App so das die Jahreszahl und das Semester mit einem Button inkrementiert werden kann.
+- Die App sollte genauso funktionieren wie im folgenden Link:
 - https://user-images.githubusercontent.com/41015675/166161193-083cccb6-877f-4b1b-8f1f-3a5fbadb0dcb.mp4
 

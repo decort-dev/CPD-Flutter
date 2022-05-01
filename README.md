@@ -7,6 +7,16 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 
 - https://dartpad.dev/
 
+### DartPad Links von der Einführung
+
+- [Variablen](https://dartpad.dev/025824cad61751caffd714ae62d2e2b0)
+- [Numbers](https://dartpad.dev/c6743ba6765532dd553181276a15f0da)
+- [Strings](https://dartpad.dev/93e587c7e7fa0f42b0efc7c28cd8cc19)
+- [Booleans](https://dartpad.dev/0a43c102bcd0df5fcfc3000b42d1b920)
+- [List, Set, Map](https://dartpad.dev/83a41fc2bd11eadd7c3e090bcd33ba56)
+- [Functions](https://dartpad.dev/68cfd563f64cea2d1b158c746866f97d)
+- [Classes](https://dartpad.dev/39894a1f3e37baba8ddafbfaf0970d90)
+
 ## Aufgaben Dart
 
 ### Aufgabe 1 

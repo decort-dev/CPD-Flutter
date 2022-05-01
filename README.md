@@ -42,6 +42,7 @@ NOTE!
 - ![aufgabe1](https://user-images.githubusercontent.com/41015675/166160442-df945d87-a720-411f-947a-bc34d88deb95.png)
 
 ### Aufgabe 3
-- bla
+- Erweitern sie die App so, dass die Jahreszahl und das Semester mit einem Button inkrementiert werden kann
+- Die App soll genau so funktionieren wie im folgenden Link:
 - https://user-images.githubusercontent.com/41015675/166161193-083cccb6-877f-4b1b-8f1f-3a5fbadb0dcb.mp4
 

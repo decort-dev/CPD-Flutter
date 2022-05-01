@@ -37,6 +37,8 @@ NOTE!
 - Mit welcher Funktion aktualisiere ich den Zustand (State) der Anwendung?
 
 ### Aufgabe 2
-
+- Erstellen Sie eine App die ihren Namen und ihr aktuelles Semester zentriert in der Mitte anzeigt.
+- Die App sollte wie folgt aussehen: 
+- ![aufgabe1](https://user-images.githubusercontent.com/41015675/166160442-df945d87-a720-411f-947a-bc34d88deb95.png)
 
 ### Aufgabe 3

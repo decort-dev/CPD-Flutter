@@ -9,7 +9,7 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 
 ### DartPad Links von der Einführung
 
-- [Variablen](https://dartpad.dev/025824cad61751caffd714ae62d2e2b0)
+- [Variables](https://dartpad.dev/025824cad61751caffd714ae62d2e2b0)
 - [Numbers](https://dartpad.dev/c6743ba6765532dd553181276a15f0da)
 - [Strings](https://dartpad.dev/93e587c7e7fa0f42b0efc7c28cd8cc19)
 - [Booleans](https://dartpad.dev/0a43c102bcd0df5fcfc3000b42d1b920)

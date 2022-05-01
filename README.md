@@ -7,17 +7,26 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 
 - https://dartpad.dev/
 
-
 ### Link zur Präsentation
 
 NOTE!
 - pdf hochladen im repo
 
-
 ## Aufgaben Dart
 
-- Dart allgemein
-- link zu dartpad
+### Aufgabe 1 
+
+- Was ist `Null-Safety`?
+- Können Variablen in Dart null werden, und wenn ja wie?
+
+### Aufgabe 2 
+
+- Geben Sie `Hello World` auf der Console aus. 
+ 
+### Aufgabe 3 
+
+- Implementieren Sie die Funktion `int fibonacci(int n)`, welche die nte Fibonacci Zahl liefert.
+- Geben Sie die 5te Zahl in der Fibonacci-Folge aus.
 
 ## Aufgaben Flutter
 

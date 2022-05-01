@@ -11,17 +11,23 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 ### Link zur Präsentation
 
 NOTE!
-- link einfügen und nicht vergessen vor dem vortrag die rechte umzustelen :D
-- maybe lieber eine pdf
+- pdf hochladen im repo
 
 
-## Aufgabe 1
+## Aufgaben Dart
 
 - Dart allgemein
 - link zu dartpad
 
-## Aufgabe 2
+## Aufgaben Flutter
 
-- Flutter: Widgets, state, ...
-- StatelessWidget/StatefulllessWidget
-- link zu dartpad
+### Aufgabe 1
+
+- Was sind Widgets?
+- Was ist der unterschied zwischen StatefulWidgets und StatelessWidgets?
+- Mit welcher Funktion aktualisiere ich den Zustand (State) der Anwendung?
+
+### Aufgabe 2
+
+
+### Aufgabe 3

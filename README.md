@@ -51,3 +51,5 @@ Präsentation und Laboraufgaben für die Veranstalltung **Mobile Engineering (So
 - Die App sollte genauso funktionieren wie im folgenden Link:
 - https://user-images.githubusercontent.com/41015675/166161193-083cccb6-877f-4b1b-8f1f-3a5fbadb0dcb.mp4
 
+### Aufgabe 4
+- Spielt mit Flutter rum, ändert Farben, Layout oder Texte wie ihr wollt.

@@ -1,0 +1,11 @@
+Was sind Widgets?
+- Ein Widget ist eine Beschreibung eines Teils einer Benutzeroberfläche.
+- UI-Elemente wie Button, Text oder Container
+- Layout-Elemente wie Center, Row, Column
+
+Was ist der unterschied zwischen StatefulWidgets und StatelessWidgets?
+- Ein StatefulWidgets speichert den Zustand der Anwendung und aktualisiert die Benutzeroberfläche beim Zustandswechsel.
+- Ein StatelessWidgets speichert keinen Zustand und ist für Statische elemente die nicht neugerendert werden müssen gedacht.
+
+Mit welcher Funktion aktualisiere ich den Zustand (State) der Anwendung?
+- Der Name der Funktion ist "setState()"
